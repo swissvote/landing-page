@@ -16,4 +16,4 @@ The goals of SwissVote are to:
 
 In addition to the white paper PDF, this repo contains code for a promotional website that introduces SwissVote at a high level to the general public. The site is implemented with HTML, TailwindCSS for styling, and FontAwesome icons.
 
-This is an ongoing project - we welcome contributions and feedback from the community! Please see the CONTRIBUTING guidelines to get involved.
+This is an ongoing project - we welcome contributions and feedback from the community! Please see the [CONTRIBUTING](./CONTRIBUTING.md) guidelines to get involved.
