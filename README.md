@@ -2,6 +2,8 @@
 
 This repository contains the white paper and website code for SwissVote, a proposed digital voting platform aimed at revolutionizing elections in Switzerland. 
 
+[Link to the Whitepaper](https://docs.google.com/document/d/1MJ3bzYl7eHdMvZ2FyLJvJfyf9p_qzLGUVU4qqlB0RMo/edit)
+
 The white paper lays out the vision and technical details behind SwissVote, which utilizes a novel integration of SwissID, the Internet Computer Protocol, and zero-knowledge cryptography to enable voting that is secure, private, transparent, accessible, and trustworthy.
 
 The goals of SwissVote are to:
